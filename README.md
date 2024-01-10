@@ -8,9 +8,9 @@ The initial challenges and dataset were provided by DataCamp, but as explained i
 
 ## Files
 
-- notebook.ipynb - Python notebook with walkthrough of code
-- SMSSpamCollection.csv - The first collection of SMS messages
-- Dataset_5971.csv - The second collection of SMS messages
+- [notebook.ipynb](notebook.ipynb) - Python notebook with walkthrough of code
+- [SMSSpamCollection.csv](SMSSpamCollection.csv) - The first collection of SMS messages
+- [Dataset_5971.csv](Dataset_5971.csv) - The second collection of SMS messages
 
 
 
